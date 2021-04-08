@@ -20,6 +20,6 @@ namespace EmployeeManagementSystem.Models
         public string Department { get; set; }
         public bool IsActive { get; set; }
         public string PhotoPath { get; set; }
-        //This is Testing
+        public string Test { get; set; }
     }
 }
